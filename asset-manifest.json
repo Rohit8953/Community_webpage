@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Community_webpage/static/css/main.c8e5dc7c.css",
+    "main.js": "/Community_webpage/static/js/main.d9e5c48e.js",
+    "static/js/787.1b751a9b.chunk.js": "/Community_webpage/static/js/787.1b751a9b.chunk.js",
+    "static/media/image.png": "/Community_webpage/static/media/image.4fdc3717ddd22fc029ce.png",
+    "static/media/image.jpg": "/Community_webpage/static/media/image.7723f3a46fe4c62e8a66.jpg",
+    "static/media/slick.svg": "/Community_webpage/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Community_webpage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Community_webpage/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Community_webpage/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Community_webpage/index.html",
+    "main.c8e5dc7c.css.map": "/Community_webpage/static/css/main.c8e5dc7c.css.map",
+    "main.d9e5c48e.js.map": "/Community_webpage/static/js/main.d9e5c48e.js.map",
+    "787.1b751a9b.chunk.js.map": "/Community_webpage/static/js/787.1b751a9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8e5dc7c.css",
+    "static/js/main.d9e5c48e.js"
+  ]
+}
